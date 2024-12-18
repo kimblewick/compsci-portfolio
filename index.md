@@ -1,6 +1,8 @@
 ---
 title: Welcome to my blog
-
-- Hello World
 ---
+
+- Home Page
+- About
+- Projects
 
