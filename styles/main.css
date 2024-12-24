@@ -1,0 +1,32 @@
+.project-grid {
+    display: grid;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.project {
+    display: flex;
+    align-items: start;
+    gap: 1rem;
+}
+
+.project img {
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.project-info {
+    flex: 1;
+}
+
+/* Make it responsive */
+@media (max-width: 768px) {
+    .project {
+        flex-direction: column;
+    }
+    
+    .project img {
+        width: 100%;
+        max-width: 400px;
+    }
+} 
