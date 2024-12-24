@@ -16,7 +16,7 @@ description: Computer Science Projects and Professional Work
 
 <div class="project-grid">
   <div class="project">
-    <img src="/images/project1-thumbnail.jpg" alt="Project 1 Screenshot" width="200">
+    <img src="pics/SpiritBound_MainMenu.png" alt="Project 1 Screenshot" width="200">
     <div class="project-info">
       <h3><a href="/projects/project1">Project 1</a></h3>
       <p>Brief description of your first project. Explain what technologies you used and what problems you solved.</p>
